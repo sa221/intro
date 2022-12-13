@@ -1,0 +1,43 @@
+﻿@import url(sanitize.css);
+.content{
+    text-align: center;
+    background-color: rgb(60, 206, 46);
+    width: 600px;
+    margin: 10px auto;
+    border: 1px solid #d1d1d1;
+}
+header h1 {
+    margin: 0; /* 余白をなくす */
+    font-size: 30px;
+    margin: 20px;
+    color: brown
+}
+h4 {
+    font-size: 24px;
+    margin: 30px;
+    color: green 
+}
+h4 {
+    font-size: 23px;
+    margin: 24px;
+    color: green
+}
+h3 {font-size: 22px;
+    margin: 27px;
+    color: aqua}
+p {
+    font-size: 20px;
+}
+button {
+    width: 60%;
+    background-color: #342d95;
+    color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0);
+    }
+.reference {
+    color: black;
+    margin: 8px 0;
+    font-size: 16px;
+}
